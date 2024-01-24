@@ -15,7 +15,7 @@
 
 pyqt5,pyqt5_tools,numpy,tensorflow,jieba
 
-1）解释器版本为3.8，但是3.10也能跑，主要原因是3.10打不开qt designer。
+1）解释器版本为3.8。
 
 2）Tensorflow：2.80 CUDA：11.1 cuDNN：8.1.0 RTX3060
 
